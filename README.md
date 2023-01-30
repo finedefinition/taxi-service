@@ -58,11 +58,9 @@ where:
 
 - JDK 11
 - Maven
-- MySQL 8.0.28
+- MySQL 8.0.32
 - JDBC
 - HTML, CSS
 - Java Servlet API 4.0.1
 - Tomcat 9.0.50
 - JSTL 1.2
-- Junit jupiter api 5.9.0
-- Log4j logging apache 2.18.0
