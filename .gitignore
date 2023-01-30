@@ -2,8 +2,3 @@
 *.iml
 target/*
 logs/*
-git commit -m "first commit"
-git branch -M main
-git remote add origin <link to your project>
-git push -u origin main
-
